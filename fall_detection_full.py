@@ -117,3 +117,4 @@ def predict_fall(ax, ay, az):
 print("\n📌 Test New Sample:")
 print(predict_fall(12, 13, 2))
 print(predict_fall(0.5, -0.3, 9.2))
+
