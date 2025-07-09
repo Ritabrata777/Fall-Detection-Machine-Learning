@@ -12,10 +12,14 @@ Evaluation and visualization
 
 Model saving
 
-🧠 Complete Fall Detection ML Pipeline
+### 🧠 Complete Fall Detection ML Pipeline
+
 🛠️ Step 1: Install Required Libraries
+
 pip install numpy pandas scikit-learn matplotlib seaborn joblib
-💾 Outputs
+
+### 💾 Outputs
+
 fall_model.joblib: Trained model
 
 fall_scaler.joblib: Scaler for future prediction
