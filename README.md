@@ -30,7 +30,8 @@ Confusion Matrix
 
 Feature Importance
 
-🔮 Next Steps (Optional)
+### 🔮 Next Steps (Optional)
+
 You can now:
 
 Stream live IMU data from ESP32 via serial
